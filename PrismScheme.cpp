@@ -24,6 +24,13 @@ void GetAB(double th0, double th1, double th2, double &A, double &B){
 }
 
 int main(){
+  // Assumendo errore gaussiano (eth/sqrt(3)) 
+  // a) calcolo dell'errore su A e su B tramite variazione delle funzione
+  // b) calcolo delle distribuzioni di A e B
+  //    dell'errore su A, B e della loro correlazione
+
+  // Ripetere punto b) nel caso in cui invece si assuma distribuzione uniforme con larghezza +/-eth
 
   return 0;
+
 }

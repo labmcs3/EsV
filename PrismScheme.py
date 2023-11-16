@@ -17,3 +17,9 @@ def GetAB(th0,th1,th2):
     return A,B
 
 #Main
+# Assumendo errore gaussiano (eth/sqrt(3)) 
+# a) calcolo dell'errore su A e su B tramite variazione della funzione
+# b) calcolo delle distribuzioni di A e B
+#    dell'errore su A, B e della loro correlazione
+
+# Ripetere punto b) nel caso in cui invece si assuma distribuzione uniforme con larghezza +/-eth
