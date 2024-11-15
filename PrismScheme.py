@@ -1,5 +1,5 @@
-from   ROOT import *
-from   math import *
+import ROOT
+import math as m
 import time 
 
 #Parametri e misure
